@@ -1,0 +1,24 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.grid-col {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.grid-row {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  background: palevioletred;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  line-height: 100px;
+}
+
+.clearfix {
+  margin-top: 20px;
+}
